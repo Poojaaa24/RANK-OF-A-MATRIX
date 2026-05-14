@@ -23,6 +23,8 @@ result=np.linalg.matrix_rank(matrixa)
 print(result)
 ```
 ## Output:
+<img width="826" height="382" alt="image" src="https://github.com/user-attachments/assets/9e1adfd3-c43e-4456-bd64-8e1b3d2d947c" />
+
 ![alt text](<Screenshot 2026-05-14 160048.png>)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
